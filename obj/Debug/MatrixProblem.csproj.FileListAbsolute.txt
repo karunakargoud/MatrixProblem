@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\bin\Debug\MatrixProblem.exe.config
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\bin\Debug\MatrixProblem.exe
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\bin\Debug\MatrixProblem.pdb
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\obj\Debug\MatrixProblem.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\obj\Debug\MatrixProblem.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\obj\Debug\MatrixProblem.exe
+C:\Users\karun\source\repos\MatrixProblem\MatrixProblem\obj\Debug\MatrixProblem.pdb
